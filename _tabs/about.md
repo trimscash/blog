@@ -34,4 +34,4 @@ order: 4
 
 ### github を見てね！！
 
-### [GitHub](https://github.com/trimscash)
+### [TrimsCash --GitHub](https://github.com/trimscash)
