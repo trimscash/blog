@@ -22,18 +22,15 @@ order: 4
 
 
 <a href="https://trimscash.github.io/KosenWordle"><img src="../assets/img/about/KosenWordle.png" width=400></a>
-
 <a href="https://trimscash.github.io/DagashiGacha"><img src="../assets/img/about/DagashiGacha.png" width=400></a>
 
-<a href="https://trimscash.github.io"><img src="../assets/img/about/PictogramMaker.png" width=400></a>
-
+<a href="https://trimscash.github.io"><img src="../assets/img/about/PictogramMaker.png" width=400></a> 
 <a href="https://trimscash.github.io/unko64"><img src="../assets/img/about/unko64.png" width=400></a>
 
 <a href="https://trimscash.github.io/etoemoji"><img src="../assets/img/about/etoemoji.png" width=400></a>
-
 <a href="https://qiita.com/trimscash/items/e06ede13193fa8d48c02"><img src="../assets/img/about/bunaiCTF_Colorbar2.png" width=400></a>
 
-etc..
+### etc..
 
 ### github を見てね！！
 
